@@ -1,0 +1,253 @@
+img: 1     Result: 24 / 24
+img: 2     Result: 24 / 24
+img: 3     Result: 24 / 24
+img: 4     Result: 24 / 24
+img: 5     Result: 23 / 24
+img: 6     Result: 23 / 24
+img: 7     Result: 24 / 24
+img: 8     Result: 24 / 24
+img: 9     Result: 24 / 24
+img: 10     Result: 24 / 24
+img: 11     Result: 24 / 24
+img: 12     Result: 24 / 24
+img: 13     Result: 24 / 24
+img: 14     Result: 24 / 24
+img: 15     Result: 24 / 24
+img: 16     Result: 24 / 24
+img: 17     Result: 24 / 24
+img: 18     Result: 24 / 24
+img: 19     Result: 24 / 24
+img: 20     Result: 24 / 24
+img: 21     Result: 23 / 24
+img: 22     Result: 24 / 24
+img: 23     Result: 23 / 24
+img: 24     Result: 23 / 24
+img: 25     Result: 23 / 24
+img: 26     Result: 24 / 24
+img: 27     Result: 24 / 24
+img: 28     Result: 24 / 24
+img: 29     Result: 24 / 24
+img: 30     Result: 24 / 24
+img: 31     Result: 24 / 24
+img: 32     Result: 24 / 24
+img: 33     Result: 24 / 24
+img: 34     Result: 24 / 24
+img: 35     Result: 23 / 24
+img: 36     Result: 24 / 24
+img: 37     Result: 23 / 24
+img: 38     Result: 23 / 24
+img: 39     Result: 24 / 24
+img: 40     Result: 24 / 24
+img: 41     Result: 23 / 24
+img: 42     Result: 24 / 24
+img: 43     Result: 24 / 24
+img: 44     Result: 24 / 24
+img: 45     Result: 23 / 24
+img: 46     Result: 24 / 24
+img: 47     Result: 24 / 24
+img: 48     Result: 24 / 24
+img: 49     Result: 24 / 24
+img: 50     Result: 23 / 24
+img: 51     Result: 23 / 24
+img: 52     Result: 24 / 24
+img: 53     Result: 24 / 24
+img: 54     Result: 24 / 24
+img: 55     Result: 23 / 24
+img: 56     Result: 23 / 24
+img: 57     Result: 24 / 24
+img: 58     Result: 24 / 24
+img: 59     Result: 24 / 24
+img: 60     Result: 24 / 24
+img: 61     Result: 24 / 24
+img: 62     Result: 24 / 24
+img: 63     Result: 24 / 24
+img: 64     Result: 24 / 24
+img: 65     Result: 24 / 24
+img: 66     Result: 23 / 24
+img: 67     Result: 24 / 24
+img: 68     Result: 24 / 24
+img: 69     Result: 24 / 24
+img: 70     Result: 24 / 24
+img: 71     Result: 24 / 24
+img: 72     Result: 24 / 24
+img: 73     Result: 24 / 24
+img: 74     Result: 24 / 24
+img: 75     Result: 24 / 24
+img: 76     Result: 24 / 24
+img: 77     Result: 24 / 24
+img: 78     Result: 24 / 24
+img: 79     Result: 24 / 24
+img: 80     Result: 24 / 24
+img: 81     Result: 23 / 24
+img: 82     Result: 24 / 24
+img: 83     Result: 24 / 24
+img: 84     Result: 23 / 24
+img: 85     Result: 24 / 24
+img: 86     Result: 24 / 24
+img: 87     Result: 24 / 24
+img: 88     Result: 24 / 24
+img: 89     Result: 23 / 24
+img: 90     Result: 24 / 24
+img: 91     Result: 24 / 24
+img: 92     Result: 23 / 24
+img: 93     Result: 24 / 24
+img: 94     Result: 23 / 24
+img: 95     Result: 24 / 24
+img: 96     Result: 24 / 24
+img: 97     Result: 24 / 24
+img: 98     Result: 23 / 24
+img: 99     Result: 24 / 24
+img: 100     Result: 24 / 24
+img: 101     Result: 24 / 24
+img: 102     Result: 0 / 24
+img: 103     Result: 24 / 24
+img: 104     Result: 24 / 24
+img: 105     Result: 24 / 24
+img: 106     Result: 24 / 24
+img: 107     Result: 24 / 24
+img: 108     Result: 22 / 24
+img: 109     Result: 23 / 24
+img: 110     Result: 23 / 24
+img: 111     Result: 24 / 24
+img: 112     Result: 24 / 24
+img: 113     Result: 0 / 24
+img: 114     Result: 23 / 24
+img: 115     Result: 24 / 24
+img: 116     Result: 24 / 24
+img: 117     Result: 24 / 24
+img: 118     Result: 24 / 24
+img: 119     Result: 23 / 24
+img: 120     Result: 24 / 24
+img: 121     Result: 24 / 24
+img: 122     Result: 24 / 24
+img: 123     Result: 24 / 24
+img: 124     Result: 24 / 24
+img: 125     Result: 24 / 24
+img: 126     Result: 24 / 24
+img: 127     Result: 24 / 24
+img: 128     Result: 24 / 24
+img: 129     Result: 24 / 24
+img: 130     Result: 24 / 24
+img: 131     Result: 24 / 24
+img: 132     Result: 24 / 24
+img: 133     Result: 24 / 24
+img: 134     Result: 24 / 24
+img: 135     Result: 24 / 24
+img: 136     Result: 24 / 24
+img: 137     Result: 24 / 24
+img: 138     Result: 24 / 24
+img: 139     Result: 24 / 24
+img: 140     Result: 24 / 24
+img: 141     Result: 24 / 24
+img: 142     Result: 24 / 24
+img: 143     Result: 24 / 24
+img: 144     Result: 24 / 24
+img: 145     Result: 24 / 24
+img: 146     Result: 23 / 24
+img: 147     Result: 24 / 24
+img: 148     Result: 24 / 24
+img: 149     Result: 24 / 24
+img: 150     Result: 24 / 24
+img: 151     Result: 24 / 24
+img: 152     Result: 24 / 24
+img: 153     Result: 23 / 24
+img: 154     Result: 24 / 24
+img: 155     Result: 24 / 24
+img: 156     Result: 24 / 24
+img: 157     Result: 24 / 24
+img: 158     Result: 24 / 24
+img: 159     Result: 24 / 24
+img: 160     Result: 24 / 24
+img: 161     Result: 24 / 24
+img: 162     Result: 24 / 24
+img: 163     Result: 24 / 24
+img: 164     Result: 24 / 24
+img: 165     Result: 23 / 24
+img: 166     Result: 24 / 24
+img: 167     Result: 24 / 24
+img: 168     Result: 24 / 24
+img: 169     Result: 24 / 24
+img: 170     Result: 24 / 24
+img: 171     Result: 24 / 24
+img: 172     Result: 24 / 24
+img: 173     Result: 24 / 24
+img: 174     Result: 24 / 24
+img: 175     Result: 24 / 24
+img: 176     Result: 24 / 24
+img: 177     Result: 24 / 24
+img: 178     Result: 24 / 24
+img: 179     Result: 0 / 24
+img: 180     Result: 24 / 24
+img: 181     Result: 24 / 24
+img: 182     Result: 24 / 24
+img: 183     Result: 24 / 24
+img: 184     Result: 24 / 24
+img: 185     Result: 24 / 24
+img: 186     Result: 24 / 24
+img: 187     Result: 24 / 24
+img: 188     Result: 24 / 24
+img: 189     Result: 24 / 24
+img: 190     Result: 24 / 24
+img: 191     Result: 24 / 24
+img: 192     Result: 24 / 24
+img: 193     Result: 24 / 24
+img: 194     Result: 24 / 24
+img: 195     Result: 23 / 24
+img: 196     Result: 24 / 24
+img: 197     Result: 24 / 24
+img: 198     Result: 24 / 24
+img: 199     Result: 24 / 24
+20.082666635513306 segundos gastos
+Erro: Segmentação de cores HSV
+Erro: Erode/Dilate
+Erro: Canny Edge
+Erro: Contornos
+img: 1     Result: 24 / 24
+13.474533796310425 segundos gastos
+img: 1     Result: 0 / 24
+6.593739986419678 segundos gastos
+img: 1     Result: 24 / 24
+3.697284698486328 segundos gastos
+img: 1     Result: 0 / 24
+4.1025168895721436 segundos gastos
+img: 1     Result: 0 / 24
+7.87211537361145 segundos gastos
+img: 1     Result: 0 / 24
+5.121904611587524 segundos gastos
+img: 1     Result: 12 / 24
+27.53977084159851 segundos gastos
+img: 1     Result: 12 / 24
+4.193508148193359 segundos gastos
+img: 1     Result: 12 / 24
+5.410661697387695 segundos gastos
+img: 1     Result: 0 / 24
+3.13957142829895 segundos gastos
+img: 1     Result: 0 / 24
+11.053820848464966 segundos gastos
+Erro: Gamma
+img: 1     Result: 0 / 24
+9.472810506820679 segundos gastos
+img: 1     Result: 0 / 24
+4.384308815002441 segundos gastos
+10.645429134368896 segundos gastos
+Erro: K-Mean
+Erro: K-Mean
+Erro: K-Mean
+4.7219343185424805 segundos gastos
+30.097650051116943 segundos gastos
+Erro: Erode/Dilate
+9.30985975265503 segundos gastos
+5.961017608642578 segundos gastos
+Erro: Erode/Dilate
+Erro: Erode/Dilate
+9.686870574951172 segundos gastos
+13.923355102539062 segundos gastos
+28.052791118621826 segundos gastos
+6.582216739654541 segundos gastos
+8.499757766723633 segundos gastos
+6.75659441947937 segundos gastos
+26.260499000549316 segundos gastos
+8.165141820907593 segundos gastos
+17.316332817077637 segundos gastos
+4.392516613006592 segundos gastos
+43.78074049949646 segundos gastos
